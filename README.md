@@ -122,8 +122,20 @@ Requirement hardware: Only for GPU Nvidia
 
    ![image](https://github.com/user-attachments/assets/b6adc1eb-15fa-401c-b139-46ddf2dc781b)
 
-5. Pilih environemnet yang terinstall GPU, pada Notebooks, pilih
+5. Pilih environemnet yang terinstall GPU, pada Notebook, pilih torchgpu-env karena tadi torch gpu terinstall pada env ini,
 
    ![image](https://github.com/user-attachments/assets/513fd76a-627e-45a8-8baf-9f097eb2f21f)
 
-7. Selamat anda telah bisa menggunakan jupyter host local untuk training custom model yolo anda, sama seperti anda menggunakan google colab.
+6. Jika sudah masuk ke notebook editor, lihat pada gambar berikut:
+
+   ![image](https://github.com/user-attachments/assets/47addde2-0df1-468d-933a-4a0a2ab96fc7)
+
+   torchgpu-env menandakan bahwa kita sedang bekerja pada kernel gpu yang kita install sebelumnya.
+
+7. Dapat kita testing agar yakin, ketik seperti pada gambar:
+
+   ![image](https://github.com/user-attachments/assets/6e30328f-f2e8-4229-8809-dee597e00e7b)
+
+   Jika True, selamat anda bisa menlanjutkan training model anda.
+   
+8. Selamat anda telah bisa menggunakan jupyter host local untuk training custom model yolo anda, sama seperti anda menggunakan google colab.
