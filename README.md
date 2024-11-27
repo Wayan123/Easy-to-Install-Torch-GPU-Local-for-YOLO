@@ -57,6 +57,9 @@ Requirement hardware: Only for GPU Nvidia
 ## Melakukan test inferensi menggunakan yolov5
 
 1. Download repository yolov5 menggunakan 'git clone', ketik 'git clone https://github.com/ultralytics/yolov5.git', link yolov5: https://github.com/ultralytics/yolov5
+
+   ![image](https://github.com/user-attachments/assets/f1ed9abf-b9cd-42f0-9a92-2401320e5633)
+
 2. Jika git belum terinstall, silakan install dengan ketik 'conda install git'
 3. Lalu masuk ke directory yolov5 dengan ketik, 'cd yolov5' sepeti pada gamnbar:
 
