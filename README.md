@@ -42,3 +42,8 @@ Cara mudah install Torch-GPU untuk YOLO semua versi
 
    ![image](https://github.com/user-attachments/assets/08a484b9-58ec-4c09-bb74-94d98ff480e0)
 
+2. Lalu ketik 'import torch', dan 'torch.cuda.is_available()', seperti pada gambar berikut
+
+   ![image](https://github.com/user-attachments/assets/c3946439-93c2-4a0f-a29c-17b8c2b9595a)
+
+3. 
