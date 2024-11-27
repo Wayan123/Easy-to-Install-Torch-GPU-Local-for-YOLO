@@ -1,4 +1,4 @@
-# Easy-to-Install-Torch-GPU-for-YOLO
+# Easy-to-Install-Torch-GPU-Local-for-YOLO
 Cara mudah install Torch-GPU untuk YOLO semua versi
 
 Requirement hardware: Only for GPU Nvidia
@@ -95,4 +95,35 @@ Requirement hardware: Only for GPU Nvidia
 2. Untuk menjalankan inferensi ketik 'python detect.py --imgsz 640 --weights models/best.pt --source 0
 3. Semoga berhasil dan berjalan lancar.
 
+## Jika ingin training custom menggunakan jupyter
+1. Install jupyter anaconda dengan ketik 'conda install -c anaconda jupyter',
 
+   ![image](https://github.com/user-attachments/assets/36817168-b851-4272-84d2-a82ea26ceec4)
+
+2. Install ipykernel dengan ketik 'pip install --user ipykernel'
+
+   ![image](https://github.com/user-attachments/assets/5fa0767c-8c97-4ebc-b033-fcf177691ff7)
+
+3. Add environment ke ipykernel dengan ketik 'python -m ipykernel install --user --name='environment_name', misalnya 'python -m ipykernel install --user --name=torchgpu-env'
+
+   ![image](https://github.com/user-attachments/assets/87676c20-3ae0-45b0-a1c1-0c3e4359a69c)
+
+   Jika ada pesan, 
+
+   ![image](https://github.com/user-attachments/assets/9d6e65d4-4989-424a-992e-4043d8451256)
+
+   Maka proses add env berhasil
+
+4. Buka jupyter dengan ketik 'jupyter lab'
+
+   ![image](https://github.com/user-attachments/assets/802591df-8192-4146-aeca-cb0aa7f2a2c6)
+
+   Jika berhasil, hasilnya seperti berikut:
+
+   ![image](https://github.com/user-attachments/assets/b6adc1eb-15fa-401c-b139-46ddf2dc781b)
+
+5. Pilih environemnet yang terinstall GPU, pada Notebooks, pilih
+
+   ![image](https://github.com/user-attachments/assets/513fd76a-627e-45a8-8baf-9f097eb2f21f)
+
+7. Selamat anda telah bisa menggunakan jupyter host local untuk training custom model yolo anda, sama seperti anda menggunakan google colab.
