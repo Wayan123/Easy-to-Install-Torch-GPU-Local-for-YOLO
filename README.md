@@ -85,4 +85,14 @@ Requirement hardware: Only for GPU Nvidia
 
    ![image](https://github.com/user-attachments/assets/fdd5ceb3-3794-4283-a08b-e2b4faee6a48)
 
-   Buka taks manager dan arahkan ke GPU maka dapat dilihat bahwa GPU sedang bekerja untuk torch gpu dan persentasi processing dapat dilihat lebih besar
+   Buka task manager dan arahkan ke GPU maka dapat dilihat bahwa GPU sedang bekerja untuk torch gpu dan persentasi processing dapat dilihat lebih besar, seperti pada gambar saya 71%.
+
+8. Selamat model yolo anda telah berhasil berjalan pada GPU local!
+
+## Menjalankan inferensi menggunakan yolov5 dengan model custom atau model yang dibuat sendiri
+
+1. Siapkan model dan simpan pada directory yolov5/models, buat nama model atau nama default dari hasil training yaitu best.pt
+2. Untuk menjalankan inferensi ketik 'python detect.py --imgsz 640 --weights models/best.pt --source 0
+3. Semoga berhasil dan berjalan lancar.
+
+
