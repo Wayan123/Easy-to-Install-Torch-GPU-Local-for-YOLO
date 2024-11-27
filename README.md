@@ -49,5 +49,7 @@ Requirement hardware: Only for GPU Nvidia
    ![image](https://github.com/user-attachments/assets/c3946439-93c2-4a0f-a29c-17b8c2b9595a)
 
 3. Jika hasilnya True, berarti torch-gpu telah siap digunakan. Selamat anda telah bisa mkentraning model YOLO menggunakan torch-gpu Nvidia.
+4. Untuk keluar ketik saja 'exit()'
 
+   ![image](https://github.com/user-attachments/assets/97f0c137-3fb4-4bb2-bff4-775962238855)
 
