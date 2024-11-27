@@ -1,6 +1,8 @@
 # Easy-to-Install-Torch-GPU-for-YOLO
 Cara mudah install Torch-GPU untuk YOLO semua versi
 
+Requirement hardware: Only for GPU Nvidia
+
 ## A. Langkah pertama: Install Torch Cuda
 
 1. Download dan install Anaconda x64 for windows, link https://www.anaconda.com/download
@@ -46,4 +48,6 @@ Cara mudah install Torch-GPU untuk YOLO semua versi
 
    ![image](https://github.com/user-attachments/assets/c3946439-93c2-4a0f-a29c-17b8c2b9595a)
 
-3. 
+3. Jika hasilnya True, berarti torch-gpu telah siap digunakan. Selamat anda telah bisa mkentraning model YOLO menggunakan torch-gpu Nvidia.
+
+
