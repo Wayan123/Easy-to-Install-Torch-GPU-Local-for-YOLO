@@ -2,7 +2,7 @@
 Cara mudah install Torch-GPU untuk YOLO semua versi
 
 Langkah pertama: Install Torch Cuda
-1. Download dan install miniconda x64 for windows
+1. Download dan install miniconda x64 for windows, link https://docs.anaconda.com/miniconda/
 2. Buka Miniconda Prompt
 3. Buat environment, ketik 'create env -n nama-env python=3.10', nama-env bisa diganti sesuai kebutuhan, misalnya torch-gpu
 4. Buka env yang sudah dibuat tadi, ketik 'conda activate nama-env'
