@@ -1,7 +1,8 @@
 # Easy-to-Install-Torch-GPU-for-YOLO
 Cara mudah install Torch-GPU untuk YOLO semua versi
 
-Langkah pertama: Install Torch Cuda
+A. Langkah pertama: Install Torch Cuda
+
 1. Download dan install Anaconda x64 for windows, link https://www.anaconda.com/download
 2. Buka Anaconda Prompt
    
@@ -28,4 +29,11 @@ Langkah pertama: Install Torch Cuda
    ![image](https://github.com/user-attachments/assets/df5a5a27-df78-45a6-a08c-c2c070d5b692)
 
 8. Lalu install torch, cuda, dll, ketik 'conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia', pun kalo mau versi lain bisa buka link https://pytorch.org/
-7. Kalo sudah selesai, test cuda gpu dengan ketik python
+
+   ![image](https://github.com/user-attachments/assets/ec79c39b-71e5-46d5-a33a-f735c33d8778)
+
+9. Kalo sudah selesai, tampilan menjadi seperti berikut
+
+   ![image](https://github.com/user-attachments/assets/4dea6259-99ba-4c11-ac0c-77b4d79b10c4)
+
+B. Langkah kedua: Test Cuda GPU yang terinstall
