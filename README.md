@@ -5,6 +5,7 @@ Langkah pertama: Install Torch Cuda
 1. Download dan install Anaconda x64 for windows, link https://www.anaconda.com/download
 2. Buka Anaconda Prompt
    ![image](https://github.com/user-attachments/assets/35b0c59a-775a-41bd-aa4c-26bbcf16cdff)
+   
 
 4. Buat environment, ketik 'create env -n nama-env python=3.10', nama-env bisa diganti sesuai kebutuhan, misalnya torch-gpu
 5. Buka env yang sudah dibuat tadi, ketik 'conda activate nama-env'
