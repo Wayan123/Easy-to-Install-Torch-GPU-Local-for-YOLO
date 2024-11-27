@@ -4,6 +4,7 @@ Cara mudah install Torch-GPU untuk YOLO semua versi
 Langkah pertama: Install Torch Cuda
 1. Download dan install Anaconda x64 for windows, link https://www.anaconda.com/download
 2. Buka Anaconda Prompt
+   
    ![image](https://github.com/user-attachments/assets/35b0c59a-775a-41bd-aa4c-26bbcf16cdff)
    
 
