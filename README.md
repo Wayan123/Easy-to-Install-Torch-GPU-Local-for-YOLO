@@ -75,7 +75,14 @@ Requirement hardware: Only for GPU Nvidia
 
    ![image](https://github.com/user-attachments/assets/2a62777a-99ed-4335-ae3a-0db5861cd748)
 
-6. 
+6. Jika sudah terinstall semua, kita bisa melanjutkan untuk menjalankan inferensi, ketik 'python detect.py --imgsz 640 --weights yolov5m.pt --source 0'
+  
+   ![image](https://github.com/user-attachments/assets/09dfd327-1827-4731-a15a-151abb708a76)
+
+   Source 0, port webcam internal laptop, jika menggunakan webcam external ganti dengan 1 atau 2
+
+
+
 
 
 
