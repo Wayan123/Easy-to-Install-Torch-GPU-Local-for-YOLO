@@ -67,7 +67,15 @@ Requirement hardware: Only for GPU Nvidia
 
    Dan working directory akan berubah menjadi directory yolov5
 
-4. 
+4. Untuk melihat isi directory ketik 'dir'
+
+   ![image](https://github.com/user-attachments/assets/7074a662-3815-4a32-b52e-765718ad0820)
+
+5. Untuk menjalankan test inferensi, install requirements yang dibutuhkan, ketik 'pip install -r requirements.txt'
+
+   ![image](https://github.com/user-attachments/assets/2a62777a-99ed-4335-ae3a-0db5861cd748)
+
+6. 
 
 
 
