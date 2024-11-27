@@ -81,8 +81,8 @@ Requirement hardware: Only for GPU Nvidia
 
    Source 0, port webcam internal laptop, jika menggunakan webcam external ganti dengan 1 atau 2
 
+7. Dan hasilnya seperti berikut:
 
+   ![image](https://github.com/user-attachments/assets/fdd5ceb3-3794-4283-a08b-e2b4faee6a48)
 
-
-
-
+   Buka taks manager dan arahkan ke GPU maka dapat dilihat bahwa GPU sedang bekerja untuk torch gpu dan persentasi processing dapat dilihat lebih besar
