@@ -15,6 +15,10 @@ Langkah pertama: Install Torch Cuda
 
    ![image](https://github.com/user-attachments/assets/ab2d0500-74ea-40cb-ae3c-10db66a84d23)
 
+5. Tunggu hingga proses seelsai sampai muncul seperti berikut,
+
+![image](https://github.com/user-attachments/assets/dd8075df-f332-43ce-b618-0b6d18c10ec0)
+
 4. Buka env yang sudah dibuat tadi, ketik 'conda activate nama-env'
 5. Install dulu torch, cuda, dll, ketik 'conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia', pun kalo mau versi lain bisa buka link https://pytorch.org/
 6. Kalo sudah selesai, test cuda gpu dengan ketik python
