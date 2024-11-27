@@ -37,3 +37,8 @@ Cara mudah install Torch-GPU untuk YOLO semua versi
    ![image](https://github.com/user-attachments/assets/4dea6259-99ba-4c11-ac0c-77b4d79b10c4)
 
 ## B. Langkah kedua: Test Cuda GPU yang terinstall
+
+1. Ketik 'python' seperti pada gambar
+
+   ![image](https://github.com/user-attachments/assets/08a484b9-58ec-4c09-bb74-94d98ff480e0)
+
